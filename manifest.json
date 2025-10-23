@@ -1,11 +1,18 @@
 {
-  "id": "github-gitless-sync",
-  "name": "GitHub Gitless Sync",
-  "version": "1.0.7",
-  "minAppVersion": "1.7.7",
-  "description": "Sync a GitHub repository with vaults on different platforms without requiring git installation",
-  "author": "Silvano Cerza",
-  "authorUrl": "https://silvanocerza.com",
-  "fundingUrl": "https://ko-fi.com/silvanocerza",
-  "isDesktopOnly": false
+  "name": "alleswirdgut35",
+  "description": "A plugin for syncing notes with Git repositories.",
+  "version": "1.0.0",
+  "author": "Eren",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/gitless.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/gitless/issues"
+  },
+  "homepage": "https://github.com/yourusername/gitless#readme",
+  "dependencies": {
+    // add your dependencies here
+  }
 }
